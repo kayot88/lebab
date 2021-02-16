@@ -47,7 +47,7 @@
   },
   "homepage": "https://github.com/lebab/lebab",
   "dependencies": {
-    "commander": "^2.15.1",
+    "commander": "^7.1.0",
     "escope": "^3.6.0",
     "espree": "^4.0.0",
     "estraverse": "^4.1.1",
